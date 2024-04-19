@@ -37,11 +37,13 @@ Make sure both devices are on the same Wi-Fi network. Local network communicatio
 
 #### How do I send files?
 
-Right-click a file in Finder, select Share, then select NearDrop.
+Right-click a file in Finder, select Share, then select NearDrop. Be sure to [add the extension](https://github.com/grishka/NearDrop/assets/25108287/bf487c1f-28f4-41a2-99c9-c104ec5d0837).
 
 #### How do I send links?
 
 From the menu bar: File -> Share -> NearDrop. Safari also has a share button on the toolbar.
+
+
 
 #### My Mac doesn't see my Android device
 
